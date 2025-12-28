@@ -1,12 +1,11 @@
 #!/usr/bin/python
 
 ### Project: 3L3Y3 Scanner
-### Author: defaultparam
+### Author: akaParam
 
 ### Find me on following media:
-###### X: @defaultparam
-###### Instagram: @defaultparam
-###### Medium: @defaultparam
+###### X: @akaparam
+###### Medium: @akaparam
 
 from socket import *
 import optparse
